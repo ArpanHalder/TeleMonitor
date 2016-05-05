@@ -9,7 +9,7 @@ One of the primary objective is keeping the hardware cheap, simple and reparable
 
 <http://www.thehindu.com/news/national/andhra-pradesh/science-should-touch-lives-of-common-people/article8539013.ece>
 
-This is why we wish to keep the design simple simple and affortable like DIY projects, but feature rich with help of community suggestions. We also suggest to restrict use of components in the design that tiar III nations cannot afford to import and impliment in their industries. 
+This is why we wish to keep the design simple simple and affortable like DIY projects, however rich with all nesesarry features. This we can hopefully achive by cognitive support of the community. We also suggest to restrict use of components in the design that tiar III nations cannot afford to import or impliment in the industries. 
 
 ##Ways to Contribute in this project
 While demonstrating the device in labratory, several proparatory commercial and personal tools were being used. 
