@@ -16,4 +16,4 @@ One of the primary objective is keeping the hardware cheap, simple and reparable
 This is why we wish to keep the design simple simple and affordable like DIY projects, however rich with all necessary features. This we can hopefully achieve by cognitive support of the community. We also suggest to restrict use of components in the design that tier III nations cannot afford to import or implement in the industries. 
 
 ##Ways to Contribute in this project
-While demonstrating the device in laboratory, several propitiatory commercial and personal tools were being used. However, not every educational institute has access to premium facilities. 
+
