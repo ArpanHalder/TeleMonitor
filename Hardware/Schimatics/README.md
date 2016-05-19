@@ -1,7 +1,9 @@
 #Hardware Schimatics for telemonitoring nodes
 
 ## How to Open
+
 The files are made with eagle cad. 
+
 There are image files namingly  *.PNG  
 
 
