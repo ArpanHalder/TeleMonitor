@@ -1,0 +1,56 @@
+###############################################################
+
+#	Author:		Arpah Halder, Department of Mining Engineering, IIT Kharagpur
+#	Email:		tech.halder.arpan@gmail.com
+#	Date:		21-05-2016
+#	Project:	TeleMonitor
+#	Version:	v1.0
+
+##############################################################
+
+TeleMonitorATmega32-1.name=TeleMonitor on ATmega32-1mhz
+TeleMonitorATmega32-1.build.mcu=atmega32
+TeleMonitorATmega32-1.build.f_cpu=1000000L
+TeleMonitorATmega32-1.build.core=arduino:arduino
+TeleMonitorATmega32-1.build.variant=TeleMonitorATmega16-32
+TeleMonitorATmega32-1.upload.maximum_size=32000
+TeleMonitorATmega32-1.bootloader.low_fuses=0xE1
+TeleMonitorATmega32-1.bootloader.high_fuses=0xD9
+
+##############################################################
+
+TeleMonitorATmega32-8.name=TeleMonitor on ATmega32-8mhz
+TeleMonitorATmega32-8.build.mcu=atmega32
+TeleMonitorATmega32-8.build.f_cpu=8000000L
+TeleMonitorATmega32-8.build.core=arduino:arduino
+TeleMonitorATmega32-8.build.variant=TeleMonitorATmega16-32
+TeleMonitorATmega32-8.upload.maximum_size=32000
+TeleMonitorATmega32-8.bootloader.low_fuses=0xE4
+TeleMonitorATmega32-8.bootloader.high_fuses=0xD9
+
+##############################################################
+##############################################################
+
+TeleMonitorATmega16-1.name=TeleMonitor on ATmega16-1mhz
+TeleMonitorATmega16-1.build.mcu=atmega16
+TeleMonitorATmega16-1.build.f_cpu=1000000L
+TeleMonitorATmega16-1.build.core=arduino:arduino
+TeleMonitorATmega16-1.build.variant=TeleMonitorATmega16-32
+TeleMonitorATmega16-1.upload.maximum_size=16000
+TeleMonitorATmega16-1.bootloader.low_fuses=0xE1
+TeleMonitorATmega16-1.bootloader.high_fuses=0xD9
+
+##############################################################
+
+TeleMonitorATmega16-8.name=TeleMonitor on ATmega16-8mhz
+TeleMonitorATmega16-8.build.mcu=atmega16
+TeleMonitorATmega16-8.build.f_cpu=8000000L
+TeleMonitorATmega16-8.build.core=arduino:arduino
+TeleMonitorATmega16-8.build.variant=TeleMonitorATmega16-32
+TeleMonitorATmega16-8.upload.tool=avrdude
+TeleMonitorATmega16-8.upload.maximum_size=16000
+TeleMonitorATmega16-8.bootloader.tool=avrdude
+TeleMonitorATmega16-8.bootloader.low_fuses=0xE4
+TeleMonitorATmega16-8.bootloader.high_fuses=0xD9
+
+##############################################################
