@@ -1,9 +1,11 @@
 /*
-    Author:		Eric Conner
-    Email:		Eric@EricConnerApps.com
-    Date:		06-10-2013
-    Project:	ATmega32 for Arduino IDE
-    Version:	v1.2
+    Author:		Arpah Halder, Department of Mining Engineering, IIT Kharagpur
+	Email:		tech.halder.arpan@gmail.com
+	Date:		21-05-2016
+	Project:	TeleMonitor
+ 	Version:	v1.0
+	
+	Inspired by Eric Conner's ATmega32 for Arduino IDE project
 */
 
 #ifndef Pins_Arduino_h
