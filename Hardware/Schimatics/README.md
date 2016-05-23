@@ -2,6 +2,8 @@
 
 ## How to Read/Open
 
+![alt text][master_diag]
+
 The files are made with eagle cad. 
 
 There are image files naming  *.PNG  
@@ -16,3 +18,5 @@ Currently Schematics is drawn in a way which can easily be implimented with one 
 ~~On Veroboard~~
 
 Add more necessary components and rearrangement for improvements. 
+
+[master_diag] https://github.com/ArpanHalder/TeleMonitor/blob/master/Hardware/Schimatics/Schematic%20Diagram%20V1.png
