@@ -19,4 +19,4 @@ Currently Schematics is drawn in a way which can easily be implimented with one 
 
 Add more necessary components and rearrangement for improvements. 
 
-[master_diag] https://github.com/ArpanHalder/TeleMonitor/blob/master/Hardware/Schimatics/Schematic%20Diagram%20V1.png
+[master_diag]: https://github.com/ArpanHalder/TeleMonitor/blob/master/Hardware/Schimatics/Schematic%20Diagram%20V1.png
