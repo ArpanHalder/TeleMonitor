@@ -17,3 +17,4 @@ This is why we wish to keep the design simple simple and affordable like DIY pro
 
 ##Ways to Contribute in this project
 
+Contact : tech.halder.arpan@gmail.com, 

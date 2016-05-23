@@ -1,17 +1,17 @@
-#Hardware Schimatics for telemonitoring nodes
+#Hardware Schematics for Telemonitoring nodes
 
-## How to Open
+## How to Read/Open
 
 The files are made with eagle cad. 
 
-There are image files namingly  *.PNG  
+There are image files naming  *.PNG  
 
-
-Currently Schamatics is drawn in a way which can easily be implimented with vero board. (to avoid PCB printing cost for early developrers.) 
+Currently Schematics is drawn in a way which can easily be implimented with one sided perforated board. (to avoid PCB printing cost for early developers.) 
+*Please Note:* the top layer on PCB (the red streaks) need not to be solder bridged, rather a thin wire may be used which shall be soldered on bottom side.
 
 ### Current Job
-~~Looking forword to make a vias less PCB that can be printed and fabricated manually.~~
+~~Looking forward to make a vias less PCB that can be printed and fabricated manually.~~
 
 ~~On Veroboard~~
 
-Add more nesesarry components and reaggangement for improvements. 
+Add more necessary components and rearrangement for improvements. 

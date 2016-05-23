@@ -108,69 +108,69 @@ const uint16_t PROGMEM port_to_input_PGM[] = {
 };
 
 const uint8_t PROGMEM digital_pin_to_port_PGM[30] = {
-PD	,	 	 //	 	PD	2	 	>>>	GPIO		1
-PD	,	 	 //	 	PD	3	 	>>>	GPIO		2
-PD	,	 	 //	 	PD	4	 	>>>	GPIO		3
-PD	,	 	 //	 	PD	5	 	>>>	GPIO		4
-PD	,	 	 //	 	PD	6	 	>>>	GPIO		5
-PC	,	 	 //	 	PC	2	 	>>>	GPIO		6
-PC	,	 	 //	 	PC	3	 	>>>	GPIO		7
-PC	,	 	 //	 	PC	4	 	>>>	GPIO		8
-PC	,	 	 //	 	PC	5	 	>>>	GPIO		9
-PC	,	 	 //	 	PC	6	 	>>>	GPIO	 10
-PC	,	 	 //	 	PC	7	 	>>>	GPIO		11
-PB	,	 	 //	 	PB	0	 	>>>	GPIO 	12
-PB	,	 	 //	 	PB	1	 	>>>	GPIO 	13
-PB	,	 	 //	 	PB	2	 	>>>	GPIO 	14
-PB	,	 	 //	 	PB	3	 	>>>	GPIO 	15
-PB	,	 	 //	 	PB	4	 	>>>	GPIO		16
-PB	,	 	 //	 	PB	5	 	>>>	GPIO		17
-PB	,	 	 //	 	PB	6	 	>>>	GPIO		18
-PB	,	 	 //	 	PB	7	 	>>>	GPIO		19
-PA	,	 	 //	 	PA	0	 	>>>	GPIO		20
-PA	,	 	 //	 	PA	1	 	>>>	GPIO		21
-PA	,	 	 //	 	PA	2	 	>>>	GPIO		22
-PA	,	 	 //	 	PA	3	 	>>>	GPIO		23
-PA	,	 	 //	 	PA	4	 	>>>	GPIO		24
-PA	,	 	 //	 	PA	5	 	>>>	GPIO		25
-PA	,	 	 //	 	PA	6	 	>>>	GPIO		26
-PA	,	 	 //	 	PA	7	 	>>>	GPIO		27
-PC	,	 	 //	 	PC	1	 	>>>	GPIO		28
-PC	,	 	 //	 	PC	0	 	>>>	GPIO		29
-PD	,	 	 //	 	PD	7	 	>>>	GPIO		30
+PD	,	 	 //	 	PD2	 	>>>	GPIO		1
+PD	,	 	 //	 	PD3	 	>>>	GPIO		2
+PD	,	 	 //	 	PD4	 	>>>	GPIO		3
+PD	,	 	 //	 	PD5	 	>>>	GPIO		4
+PD	,	 	 //	 	PD6	 	>>>	GPIO		5
+PC	,	 	 //	 	PC2	 	>>>	GPIO		6
+PC	,	 	 //	 	PC3	 	>>>	GPIO		7
+PC	,	 	 //	 	PC4	 	>>>	GPIO		8
+PC	,	 	 //	 	PC5	 	>>>	GPIO		9
+PC	,	 	 //	 	PC6	 	>>>	GPIO	    10
+PC	,	 	 //	 	PC7	 	>>>	GPIO		11
+PB	,	 	 //	 	PB0	 	>>>	GPIO    	12
+PB	,	 	 //	 	PB1	 	>>>	GPIO 		13
+PB	,	 	 //	 	PB2	 	>>>	GPIO 		14
+PB	,	 	 //	 	PB3	 	>>>	GPIO 		15
+PB	,	 	 //	 	PB4	 	>>>	GPIO		16
+PB	,	 	 //	 	PB5	 	>>>	GPIO		17
+PB	,	 	 //	 	PB6	 	>>>	GPIO		18
+PB	,	 	 //	 	PB7	 	>>>	GPIO		19
+PA	,	 	 //	 	PA0	 	>>>	GPIO		20
+PA	,	 	 //	 	PA1	 	>>>	GPIO		21
+PA	,	 	 //	 	PA2	 	>>>	GPIO		22
+PA	,	 	 //	 	PA3	 	>>>	GPIO		23
+PA	,	 	 //	 	PA4	 	>>>	GPIO		24
+PA	,	 	 //	 	PA5	 	>>>	GPIO		25
+PA	,	 	 //	 	PA6	 	>>>	GPIO		26
+PA	,	 	 //	 	PA7	 	>>>	GPIO		27
+PC	,	 	 //	 	PC1	 	>>>	GPIO		28
+PC	,	 	 //	 	PC0	 	>>>	GPIO		29
+PD	,	 	 //	 	PD7	 	>>>	GPIO		30
 };
 
 const uint8_t PROGMEM digital_pin_to_bit_mask_PGM[30] = {	
-_BV(	2	)	,	 	 //	 	PD	2	 	>>>	GPIO		1
-_BV(	3	)	,	 	 //	 	PD	3	 	>>>	GPIO		2
-_BV(	4	)	,	 	 //	 	PD	4	 	>>>	GPIO		3
-_BV(	5	)	,	 	 //	 	PD	5	 	>>>	GPIO		4
-_BV(	6	)	,	 	 //	 	PD	6	 	>>>	GPIO		5
-_BV(	2	)	,	 	 //	 	PC	2	 	>>>	GPIO		6
-_BV(	3	)	,	 	 //	 	PC	3	 	>>>	GPIO		7
-_BV(	4	)	,	 	 //	 	PC	4	 	>>>	GPIO		8
-_BV(	5	)	,	 	 //	 	PC	5	 	>>>	GPIO		9
-_BV(	6	)	,	 	 //	 	PC	6	 	>>>	GPIO	 10
-_BV(	7	)	,	 	 //	 	PC	7	 	>>>	GPIO	 11
-_BV(	0	)	,	 	 //	 	PB	0	 	>>>	GPIO	 12
-_BV(	1	)	,	 	 //	 	PB	1	 	>>>	GPIO	 13
-_BV(	2	)	,	 	 //	 	PB	2	 	>>>	GPIO	 14
-_BV(	3	)	,	 	 //	 	PB	3	 	>>>	GPIO	 15
-_BV(	4	)	,	 	 //	 	PB	4	 	>>>	GPIO	 16
-_BV(	5	)	,	 	 //	 	PB	5	 	>>>	GPIO	 17
-_BV(	6	)	,	 	 //	 	PB	6	 	>>>	GPIO	 18
-_BV(	7	)	,	 	 //	 	PB	7	 	>>>	GPIO	 19
-_BV(	0	)	,	 	 //	 	PA	0	 	>>>	GPIO	 20
-_BV(	1	)	,	 	 //	 	PA	1	 	>>>	GPIO	 21
-_BV(	2	)	,	 	 //	 	PA	2	 	>>>	GPIO	 22
-_BV(	3	)	,	 	 //	 	PA	3	 	>>>	GPIO	 23
-_BV(	4	)	,	 	 //	 	PA	4	 	>>>	GPIO	 24
-_BV(	5	)	,	 	 //	 	PA	5	 	>>>	GPIO	 25
-_BV(	6	)	,	 	 //	 	PA	6	 	>>>	GPIO	 26
-_BV(	7	)	,	 	 //	 	PA	7	 	>>>	GPIO	 27
-_BV(	1	)	,	 	 //	 	PC	1	 	>>>	GPIO	 28
-_BV(	0	)	,	 	 //	 	PC	0	 	>>>	GPIO	 29
-_BV(	7	)	,	 	 //	 	PD	7	 	>>>	GPIO	 30
+_BV(2),	 	 //	 	PD	2	 	>>>	GPIO		1
+_BV(3),	 	 //	 	PD	3	 	>>>	GPIO		2
+_BV(4),	 	 //	 	PD	4	 	>>>	GPIO		3
+_BV(5),	 	 //	 	PD	5	 	>>>	GPIO		4
+_BV(6),	 	 //	 	PD	6	 	>>>	GPIO		5
+_BV(2),	 	 //	 	PC	2	 	>>>	GPIO		6
+_BV(3),	 	 //	 	PC	3	 	>>>	GPIO		7
+_BV(4),	 	 //	 	PC	4	 	>>>	GPIO		8
+_BV(5),	 	 //	 	PC	5	 	>>>	GPIO		9
+_BV(6),	 	 //	 	PC	6	 	>>>	GPIO	 10
+_BV(7),	 	 //	 	PC	7	 	>>>	GPIO	 11
+_BV(0),	 	 //	 	PB	0	 	>>>	GPIO	 12
+_BV(1),	 	 //	 	PB	1	 	>>>	GPIO	 13
+_BV(2),	 	 //	 	PB	2	 	>>>	GPIO	 14
+_BV(3),	 	 //	 	PB	3	 	>>>	GPIO	 15
+_BV(4),	 	 //	 	PB	4	 	>>>	GPIO	 16
+_BV(5),	 	 //	 	PB	5	 	>>>	GPIO	 17
+_BV(6),	 	 //	 	PB	6	 	>>>	GPIO	 18
+_BV(7),	 	 //	 	PB	7	 	>>>	GPIO	 19
+_BV(0),	 	 //	 	PA	0	 	>>>	GPIO	 20
+_BV(1),	 	 //	 	PA	1	 	>>>	GPIO	 21
+_BV(2),	 	 //	 	PA	2	 	>>>	GPIO	 22
+_BV(3),	 	 //	 	PA	3	 	>>>	GPIO	 23
+_BV(4),	 	 //	 	PA	4	 	>>>	GPIO	 24
+_BV(5),	 	 //	 	PA	5	 	>>>	GPIO	 25
+_BV(6),	 	 //	 	PA	6	 	>>>	GPIO	 26
+_BV(7),	 	 //	 	PA	7	 	>>>	GPIO	 27
+_BV(1),	 	 //	 	PC	1	 	>>>	GPIO	 28
+_BV(0),	 	 //	 	PC	0	 	>>>	GPIO	 29
+_BV(7),	 	 //	 	PD	7	 	>>>	GPIO	 30
 };
 //TODO: TIMER MAPPING
 const uint8_t PROGMEM digital_pin_to_timer_PGM[32] = {
