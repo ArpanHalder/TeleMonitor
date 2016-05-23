@@ -193,16 +193,16 @@
 <text x="-15.875" y="-1.016" size="1.778" layer="27">&gt;VALUE</text>
 </package>
 <package name="1X2-3.5MM">
-<wire x1="-3.908" y1="2.892" x2="-3.908" y2="-2.2" width="0.127" layer="21"/>
-<wire x1="-3.908" y1="-2.2" x2="-3.908" y2="-3.727" width="0.127" layer="21"/>
-<wire x1="-3.908" y1="-3.727" x2="3.854" y2="-3.727" width="0.127" layer="21"/>
-<wire x1="3.854" y1="-3.727" x2="3.854" y2="-2.2" width="0.127" layer="21"/>
-<wire x1="3.854" y1="-2.2" x2="3.854" y2="2.892" width="0.127" layer="21"/>
-<wire x1="3.854" y1="2.892" x2="-3.908" y2="2.892" width="0.127" layer="21"/>
-<wire x1="-3.908" y1="-2.2" x2="3.854" y2="-2.2" width="0.127" layer="21"/>
+<wire x1="-5.178" y1="4.924" x2="-5.178" y2="-3.47" width="0.127" layer="21"/>
+<wire x1="-5.178" y1="-3.47" x2="-5.178" y2="-4.997" width="0.127" layer="21"/>
+<wire x1="-5.178" y1="-4.997" x2="5.124" y2="-4.997" width="0.127" layer="21"/>
+<wire x1="5.124" y1="-4.997" x2="5.124" y2="-3.47" width="0.127" layer="21"/>
+<wire x1="5.124" y1="-3.47" x2="5.124" y2="4.924" width="0.127" layer="21"/>
+<wire x1="5.124" y1="4.924" x2="-5.178" y2="4.924" width="0.127" layer="21"/>
+<wire x1="-5.178" y1="-3.47" x2="5.124" y2="-3.47" width="0.127" layer="21"/>
 <pad name="1" x="2.562" y="0" drill="1" diameter="2.1844"/>
 <pad name="2" x="-2.5382" y="0.0254" drill="1" diameter="2.1844"/>
-<text x="3" y="5" size="1.27" layer="25" rot="R180">&gt;NAME</text>
+<text x="3" y="6.27" size="1.27" layer="25" rot="R180">&gt;NAME</text>
 </package>
 </packages>
 <symbols>

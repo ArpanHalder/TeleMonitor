@@ -1439,6 +1439,8 @@ Source: MAX3465-MAX3469.pdf</description>
 <sheets>
 <sheet>
 <plain>
+<text x="25.4" y="88.9" size="1.778" layer="91">Power</text>
+<text x="147.32" y="83.82" size="1.778" layer="91">RS-485 BUS</text>
 </plain>
 <instances>
 <instance part="PLC" gate="G$1" x="78.74" y="43.18"/>

@@ -1442,7 +1442,7 @@ Source: MAX3465-MAX3469.pdf</description>
 <part name="JP7" library="pinhead" deviceset="PINHD-1X6" device=""/>
 <part name="JP8" library="pinhead" deviceset="PINHD-1X6" device=""/>
 <part name="JP9" library="pinhead" deviceset="PINHD-1X4" device=""/>
-<part name="JP10" library="pinhead" deviceset="PINHD-1X11" device="/90"/>
+<part name="JP10" library="pinhead" deviceset="PINHD-1X11" device=""/>
 </parts>
 <sheets>
 <sheet>
