@@ -1,3 +1,5 @@
+![alt text][master_diag]
+
 # TeleMonitor
 This Open Hardware initiative is focused mostly for industrial application. In fact this started with designing a low cost Telemonitoring system for Mining Industry Applications.
 
@@ -17,4 +19,9 @@ This is why we wish to keep the design simple simple and affordable like DIY pro
 
 ##Ways to Contribute in this project
 
-Contact : tech.halder.arpan@gmail.com, 
+Discuss the possible improvement, and feature requirements.
+
+
+Contact : tech.halder.arpan@gmail.com
+
+[master_diag]: https://github.com/ArpanHalder/TeleMonitor/blob/master/Hardware/Schimatics/Schematic%20Diagram%20V1.png
