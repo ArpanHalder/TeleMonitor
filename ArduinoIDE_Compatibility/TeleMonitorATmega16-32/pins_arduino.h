@@ -26,7 +26,7 @@
 #define NOT_ON_TIMER 0
 
 /*			
-		                                  ATMEL ATmega16-32			
+		                             ATMEL ATmega16-32			
 					
                                       + - - U - - +                                  
             GPIO  12    PB  0     1   |           |   40    PA  0   ADC 0   GPIO  20
