@@ -8,4 +8,4 @@ Abstract concept of TeleMonitor Device : "Abstract Concept .png"
 Pin mapping in TeleMonitor: "ATmega 40 Pin layout.PNG"
 
 
-//TODO : Update explaind veersion of bare  minimum code skeliton. 
+//TODO : Update explaind revison of bare  minimum code skeliton. 
