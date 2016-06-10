@@ -1,2 +1,2 @@
 #Under Testing Phase
-## Will be updated soon
+## After Bug removal , Will be updated soon
