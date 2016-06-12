@@ -1,7 +1,9 @@
+# TeleMonitor
+This Open Hardware initiative is focused mostly for industrial application. In fact this started with designing a low cost Telemonitoring system for Mining Industry Applications. It is an embedded data transmission setup madeup on small Arduino like boards. 
+
+
 ![alt text][master_diag]
 
-# TeleMonitor
-This Open Hardware initiative is focused mostly for industrial application. In fact this started with designing a low cost Telemonitoring system for Mining Industry Applications.
 
 ##Motivation
 While demonstrating the device in laboratory, several preparatory commercial and personal tools were being used. However, not every educational institute has access to premium facilities. This project is initiated to enable us (who have access to premium education) to build some full scale copyleft open technology that can be used in academia as well as in industries.
