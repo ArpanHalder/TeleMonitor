@@ -1,5 +1,5 @@
 # TeleMonitor
-This Open Hardware initiative is focused mostly for industrial application. In fact this started with designing a low cost Telemonitoring system for Mining Industry Applications. It is an embedded data transmission setup madeup on small Arduino like boards. 
+This Open Hardware initiative is focused mostly for industrial application. In fact this started with designing a low cost Telemonitoring system for Mining Industry Applications. It is an embedded data transmission setup madeup on small Arduino like boards. For long distance communication between device nodeds, it uses RS-485
 
 
 ![alt text][master_diag]
